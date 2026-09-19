@@ -1,0 +1,146 @@
+2026-09-19 12:14:03.073 [main] INFO  testBase.MyProfileTest - Browser started: chrome
+2026-09-19 12:14:27.669 [main] INFO  testBase.MyProfileTest - Application opened successfully.
+2026-09-19 12:14:28.462 [main] INFO  testBase.MyProfileTest - Cookies accepted successfully.
+2026-09-19 12:14:38.755 [main] INFO  testBase.MyProfileTest - No Thanks popup was not displayed.
+2026-09-19 12:14:38.776 [main] INFO  testBase.MyProfileTest - Starting home test
+2026-09-19 12:14:39.061 [main] INFO  testBase.MyProfileTest - *********Click on login**********
+2026-09-19 12:14:40.535 [main] INFO  testBase.MyProfileTest - *********Click on Avtar **********
+2026-09-19 12:14:40.736 [main] INFO  testBase.MyProfileTest - *********** Click on Logout ***********
+2026-09-19 12:14:40.740 [main] INFO  testBase.MyProfileTest - Logout action started
+2026-09-19 12:15:07.163 [main] INFO  testBase.MyProfileTest - Closing browser.
+2026-09-19 12:15:09.489 [main] INFO  testBase.LoginTest - Browser started: chrome
+2026-09-19 12:15:32.728 [main] INFO  testBase.LoginTest - Application opened successfully.
+2026-09-19 12:15:33.093 [main] INFO  testBase.LoginTest - Cookies accepted successfully.
+2026-09-19 12:15:43.534 [main] INFO  testBase.LoginTest - No Thanks popup was not displayed.
+2026-09-19 12:15:43.545 [main] INFO  testBase.LoginTest - *********Starting testcases**********
+2026-09-19 12:15:43.548 [main] INFO  testBase.LoginTest - *********Click on My Account**********
+2026-09-19 12:15:43.804 [main] INFO  testBase.LoginTest - *********Click on login**********
+2026-09-19 12:15:44.601 [main] INFO  testBase.LoginTest - *********Username testcases**********
+2026-09-19 12:15:44.812 [main] INFO  testBase.LoginTest - *********Password testcases**********
+2026-09-19 12:15:45.052 [main] INFO  testBase.LoginTest - *********End of Testcases**********
+2026-09-19 12:15:45.067 [main] INFO  testBase.LoginTest - Closing browser.
+2026-09-19 12:15:47.483 [main] INFO  testBase.MyAccountTest - Browser started: chrome
+2026-09-19 12:16:11.061 [main] INFO  testBase.MyAccountTest - Application opened successfully.
+2026-09-19 12:16:11.418 [main] INFO  testBase.MyAccountTest - Cookies accepted successfully.
+2026-09-19 12:16:21.766 [main] INFO  testBase.MyAccountTest - No Thanks popup was not displayed.
+2026-09-19 12:16:21.774 [main] INFO  testBase.MyAccountTest - Starting MyAccount test
+2026-09-19 12:16:21.780 [main] INFO  testBase.MyAccountTest - *********Click on My Account**********
+2026-09-19 12:16:22.078 [main] INFO  testBase.MyAccountTest - *********Click on login**********
+2026-09-19 12:16:23.366 [main] INFO  testBase.MyAccountTest - *********On AccountPage**********
+2026-09-19 12:16:23.394 [main] INFO  testBase.MyAccountTest - Testcase completed
+2026-09-19 12:16:23.407 [main] INFO  testBase.MyAccountTest - Closing browser.
+2026-09-19 12:38:56.810 [main] INFO  testBase.MyProfileTest - Browser started: chrome
+2026-09-19 12:38:59.864 [main] INFO  testBase.LoginTest - Browser started: chrome
+2026-09-19 12:39:03.258 [main] INFO  testBase.MyAccountTest - Browser started: chrome
+2026-09-19 12:40:44.190 [main] INFO  testBase.MyProfileTest - Browser started: chrome
+2026-09-19 12:40:49.734 [main] INFO  testBase.MyProfileTest - Application opened successfully.
+2026-09-19 12:41:00.098 [main] INFO  testBase.MyProfileTest - Accept All Cookies popup was not displayed.
+2026-09-19 12:41:10.378 [main] INFO  testBase.MyProfileTest - No Thanks popup was not displayed.
+2026-09-19 12:41:10.397 [main] INFO  testBase.MyProfileTest - Starting home test
+2026-09-19 12:41:25.994 [main] INFO  testBase.MyProfileTest - Closing browser.
+2026-09-19 12:41:28.252 [main] INFO  testBase.LoginTest - Browser started: chrome
+2026-09-19 12:41:30.789 [main] INFO  testBase.MyAccountTest - Browser started: chrome
+2026-09-19 12:42:50.186 [main] INFO  testBase.MyProfileTest - Browser started: chrome
+2026-09-19 12:43:50.614 [main] INFO  testBase.LoginTest - Browser started: chrome
+2026-09-19 12:44:11.888 [main] INFO  testBase.LoginTest - Application opened successfully.
+2026-09-19 12:44:22.300 [main] INFO  testBase.LoginTest - Accept All Cookies popup was not displayed.
+2026-09-19 12:44:32.634 [main] INFO  testBase.LoginTest - No Thanks popup was not displayed.
+2026-09-19 12:44:32.641 [main] INFO  testBase.LoginTest - *********Starting testcases**********
+2026-09-19 12:44:32.684 [main] INFO  testBase.LoginTest - *********Click on My Account**********
+2026-09-19 12:44:48.199 [main] ERROR testBase.LoginTest - Test failed
+2026-09-19 12:44:48.202 [main] DEBUG testBase.LoginTest - Debugs logs
+2026-09-19 12:44:48.221 [main] INFO  testBase.LoginTest - Closing browser.
+2026-09-19 12:44:50.885 [main] INFO  testBase.MyAccountTest - Browser started: chrome
+2026-09-19 13:31:28.213 [main] INFO  testBase.MyProfileTest - Browser started: chrome
+2026-09-19 13:31:52.880 [main] INFO  testBase.MyProfileTest - Application opened successfully.
+2026-09-19 13:31:53.018 [main] INFO  testBase.MyProfileTest - Cookies accepted successfully.
+2026-09-19 13:32:03.351 [main] INFO  testBase.MyProfileTest - No Thanks popup was not displayed.
+2026-09-19 13:32:03.377 [main] INFO  testBase.MyProfileTest - Starting home test
+2026-09-19 13:32:03.464 [main] INFO  testBase.MyProfileTest - *********Click on login**********
+2026-09-19 13:32:04.213 [main] INFO  testBase.MyProfileTest - *********Click on Avtar **********
+2026-09-19 13:32:04.284 [main] INFO  testBase.MyProfileTest - *********** Click on Logout ***********
+2026-09-19 13:32:04.286 [main] INFO  testBase.MyProfileTest - Logout action started
+2026-09-19 13:32:28.796 [main] INFO  testBase.MyProfileTest - Closing browser.
+2026-09-19 13:36:45.580 [main] INFO  testBase.MyProfileTest - Browser started: chrome
+2026-09-19 13:37:10.906 [main] INFO  testBase.MyProfileTest - Application opened successfully.
+2026-09-19 13:37:11.030 [main] INFO  testBase.MyProfileTest - Cookies accepted successfully.
+2026-09-19 13:37:21.373 [main] INFO  testBase.MyProfileTest - No Thanks popup was not displayed.
+2026-09-19 13:37:21.395 [main] INFO  testBase.MyProfileTest - Starting home test
+2026-09-19 13:37:21.479 [main] INFO  testBase.MyProfileTest - *********Click on login**********
+2026-09-19 13:37:22.194 [main] INFO  testBase.MyProfileTest - *********Click on Avtar **********
+2026-09-19 13:37:22.256 [main] INFO  testBase.MyProfileTest - *********** Click on Logout ***********
+2026-09-19 13:37:22.256 [main] INFO  testBase.MyProfileTest - Logout action started
+2026-09-19 13:37:46.523 [main] INFO  testBase.MyProfileTest - Closing browser.
+2026-09-19 13:38:57.090 [main] INFO  testBase.MyProfileTest - Browser started: chrome
+2026-09-19 13:39:20.783 [main] INFO  testBase.MyProfileTest - Application opened successfully.
+2026-09-19 13:39:20.890 [main] INFO  testBase.MyProfileTest - Cookies accepted successfully.
+2026-09-19 13:39:31.206 [main] INFO  testBase.MyProfileTest - No Thanks popup was not displayed.
+2026-09-19 13:39:31.218 [main] INFO  testBase.MyProfileTest - Starting home test
+2026-09-19 13:39:31.310 [main] INFO  testBase.MyProfileTest - *********Click on login**********
+2026-09-19 13:39:32.038 [main] INFO  testBase.MyProfileTest - *********Click on Avtar **********
+2026-09-19 13:39:32.099 [main] INFO  testBase.MyProfileTest - *********** Click on Logout ***********
+2026-09-19 13:39:32.100 [main] INFO  testBase.MyProfileTest - Logout action started
+2026-09-19 13:39:32.114 [main] INFO  testBase.MyProfileTest - Closing browser.
+2026-09-19 13:42:54.815 [main] INFO  testBase.MyProfileTest - Browser started: chrome
+2026-09-19 13:43:18.062 [main] INFO  testBase.MyProfileTest - Application opened successfully.
+2026-09-19 13:43:18.186 [main] INFO  testBase.MyProfileTest - Cookies accepted successfully.
+2026-09-19 13:43:28.507 [main] INFO  testBase.MyProfileTest - No Thanks popup was not displayed.
+2026-09-19 13:43:28.518 [main] INFO  testBase.MyProfileTest - Starting home test
+2026-09-19 13:43:28.602 [main] INFO  testBase.MyProfileTest - *********Click on login**********
+2026-09-19 13:43:29.319 [main] INFO  testBase.MyProfileTest - *********Click on Avtar **********
+2026-09-19 13:43:29.373 [main] INFO  testBase.MyProfileTest - *********** Click on Logout ***********
+2026-09-19 13:43:29.374 [main] INFO  testBase.MyProfileTest - Logout action started
+2026-09-19 13:43:29.394 [main] INFO  testBase.MyProfileTest - Closing browser.
+2026-09-19 13:45:02.102 [main] INFO  testBase.LoginTest - Browser started: chrome
+2026-09-19 13:45:25.553 [main] INFO  testBase.LoginTest - Application opened successfully.
+2026-09-19 13:45:25.682 [main] INFO  testBase.LoginTest - Cookies accepted successfully.
+2026-09-19 13:45:36.012 [main] INFO  testBase.LoginTest - No Thanks popup was not displayed.
+2026-09-19 13:45:36.020 [main] INFO  testBase.LoginTest - *********Starting testcases**********
+2026-09-19 13:45:36.030 [main] INFO  testBase.LoginTest - *********Click on My Account**********
+2026-09-19 13:45:36.107 [main] INFO  testBase.LoginTest - *********Click on login**********
+2026-09-19 13:45:36.687 [main] INFO  testBase.LoginTest - *********Username testcases**********
+2026-09-19 13:45:36.732 [main] INFO  testBase.LoginTest - *********Password testcases**********
+2026-09-19 13:45:36.789 [main] INFO  testBase.LoginTest - *********End of Testcases**********
+2026-09-19 13:45:36.798 [main] INFO  testBase.LoginTest - Closing browser.
+2026-09-19 13:45:38.054 [main] INFO  testBase.MyAccountTest - Browser started: chrome
+2026-09-19 13:46:01.249 [main] INFO  testBase.MyAccountTest - Application opened successfully.
+2026-09-19 13:46:01.355 [main] INFO  testBase.MyAccountTest - Cookies accepted successfully.
+2026-09-19 13:46:11.620 [main] INFO  testBase.MyAccountTest - No Thanks popup was not displayed.
+2026-09-19 13:46:11.621 [main] INFO  testBase.MyAccountTest - Starting MyAccount test
+2026-09-19 13:46:11.622 [main] INFO  testBase.MyAccountTest - *********Click on My Account**********
+2026-09-19 13:46:11.691 [main] INFO  testBase.MyAccountTest - *********Click on login**********
+2026-09-19 13:46:12.935 [main] INFO  testBase.MyAccountTest - *********On AccountPage**********
+2026-09-19 13:46:12.983 [main] INFO  testBase.MyAccountTest - Testcase completed
+2026-09-19 13:46:12.985 [main] INFO  testBase.MyAccountTest - Closing browser.
+2026-09-19 15:27:42.091 [main] INFO  testBase.LoginTest - Browser started: chrome
+2026-09-19 15:28:06.728 [main] INFO  testBase.LoginTest - Application opened successfully.
+2026-09-19 15:28:06.863 [main] INFO  testBase.LoginTest - Cookies accepted successfully.
+2026-09-19 15:28:17.177 [main] INFO  testBase.LoginTest - No Thanks popup was not displayed.
+2026-09-19 15:28:17.185 [main] INFO  testBase.LoginTest - *********Starting testcases**********
+2026-09-19 15:28:17.196 [main] INFO  testBase.LoginTest - *********Click on My Account**********
+2026-09-19 15:28:17.289 [main] INFO  testBase.LoginTest - *********Click on login**********
+2026-09-19 15:28:17.898 [main] INFO  testBase.LoginTest - *********Username testcases**********
+2026-09-19 15:28:17.946 [main] INFO  testBase.LoginTest - *********Password testcases**********
+2026-09-19 15:28:18.011 [main] INFO  testBase.LoginTest - *********End of Testcases**********
+2026-09-19 15:28:18.021 [main] INFO  testBase.LoginTest - Closing browser.
+2026-09-19 15:28:19.854 [main] INFO  testBase.MyAccountTest - Browser started: chrome
+2026-09-19 15:28:43.881 [main] INFO  testBase.MyAccountTest - Application opened successfully.
+2026-09-19 15:28:43.990 [main] INFO  testBase.MyAccountTest - Cookies accepted successfully.
+2026-09-19 15:28:54.376 [main] INFO  testBase.MyAccountTest - No Thanks popup was not displayed.
+2026-09-19 15:28:54.377 [main] INFO  testBase.MyAccountTest - Starting MyAccount test
+2026-09-19 15:28:54.377 [main] INFO  testBase.MyAccountTest - *********Click on My Account**********
+2026-09-19 15:28:54.462 [main] INFO  testBase.MyAccountTest - *********Click on login**********
+2026-09-19 15:28:55.155 [main] INFO  testBase.MyAccountTest - *********On AccountPage**********
+2026-09-19 15:28:55.171 [main] INFO  testBase.MyAccountTest - Testcase completed
+2026-09-19 15:28:55.173 [main] INFO  testBase.MyAccountTest - Closing browser.
+2026-09-19 15:31:55.963 [main] INFO  testBase.LoginTest - Browser started: chrome
+2026-09-19 15:31:58.352 [main] INFO  testBase.MyAccountTest - Browser started: chrome
+2026-09-19 15:32:22.128 [main] INFO  testBase.MyAccountTest - Application opened successfully.
+2026-09-19 15:32:22.262 [main] INFO  testBase.MyAccountTest - Cookies accepted successfully.
+2026-09-19 15:32:32.606 [main] INFO  testBase.MyAccountTest - No Thanks popup was not displayed.
+2026-09-19 15:32:32.610 [main] INFO  testBase.MyAccountTest - Starting MyAccount test
+2026-09-19 15:32:32.624 [main] INFO  testBase.MyAccountTest - *********Click on My Account**********
+2026-09-19 15:32:32.711 [main] INFO  testBase.MyAccountTest - *********Click on login**********
+2026-09-19 15:32:33.430 [main] INFO  testBase.MyAccountTest - *********On AccountPage**********
+2026-09-19 15:32:33.443 [main] INFO  testBase.MyAccountTest - Testcase completed
+2026-09-19 15:32:33.445 [main] INFO  testBase.MyAccountTest - Closing browser.
