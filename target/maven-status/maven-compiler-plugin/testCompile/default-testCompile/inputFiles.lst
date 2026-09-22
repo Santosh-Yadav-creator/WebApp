@@ -3,10 +3,12 @@ C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\pageObjects\HomePag
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\pageObjects\LoginPage.java
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\pageObjects\MyProfilePage.java
+C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\pageObjects\SearchResultPage.java
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\testBase\BaseClass.java
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\testBase\LoginTest.java
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\testBase\MyAccountTest.java
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\testBase\MyProfileTest.java
+C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\testBase\SearchResultTest.java
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\utilities\DataProviders.java
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\utilities\ExcelUtility.java
 C:\Users\santoshkumay\eclipse-workspace\WebApp\src\test\java\utilities\ExtentReportManager.java

@@ -27,12 +27,8 @@ try {
         // Login
         LoginPage lp = new LoginPage(driver);
         
-        logger.info("*********Click on login**********");
-
-        lp.Username(randomeString()+"@gmail.com");
-        logger.info("*********Username testcases**********");
-        lp.Pwd(randomeNumber()+"@123");
-        logger.info("*********Password testcases**********");
+        lp.Username(p.getProperty("username"));
+        lp.Pwd(p.getProperty("password"));
         lp.ClickLogin();
         
         logger.info("*********End of Testcases**********");

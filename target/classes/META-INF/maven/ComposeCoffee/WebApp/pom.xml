@@ -85,7 +85,7 @@
             <configuration>
 
                 <suiteXmlFiles>
-                    <suiteXmlFile>grouping.xml</suiteXmlFile>
+                    <suiteXmlFile>Master.xml</suiteXmlFile>
                 </suiteXmlFiles>
 
             </configuration>

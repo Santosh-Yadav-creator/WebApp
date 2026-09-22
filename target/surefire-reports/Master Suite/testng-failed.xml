@@ -5,20 +5,16 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
+    <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="Master"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testBase.LoginTest">
+      <class name="testBase.SearchResultTest">
         <methods>
           <include name="teardown"/>
+          <include name="Search_Result"/>
           <include name="setup"/>
-          <include name="Verify_login"/>
         </methods>
-      </class> <!-- testBase.LoginTest -->
+      </class> <!-- testBase.SearchResultTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->

@@ -10,7 +10,7 @@ import pageObjects.MyProfilePage;
 public class MyProfileTest extends BaseClass {
 	
 	@Test
-	public void verify_logout() throws Exception {
+	public void verify_MyProfile() throws Exception {
 		
 		logger.info("Starting home test");
 		

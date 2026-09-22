@@ -19,10 +19,14 @@ public class HomePage extends BasePage {
 
     @FindBy(xpath = "//img[@alt='user avatar']")
     WebElement lnkMyaccount;
-
+    
+    
     public void clickMyAccount() {
 
         wait.until(ExpectedConditions.elementToBeClickable(lnkMyaccount))
             .click();
     }
+    
+    
+    
 }
